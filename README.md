@@ -1,5 +1,7 @@
 # memory-embedded-game
 Memory Game System — Embedded Systems Project
+
+Demo video: https://drive.google.com/file/d/1blTCUlHgotf3x-XPJuPv4F1-OHO2EyTj/view?usp=drive_link
 Overview
 
 Designed and developed a multi-mode embedded Memory Game system using the ATmega328P microcontroller (Arduino Uno platform) programmed in Embedded C. The system supports single-player and multiplayer gameplay modes with real-time interaction, persistent score storage, audio/visual feedback, and power-efficient operation.
